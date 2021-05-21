@@ -1,7 +1,7 @@
 import React from 'react';
-import EventPractice from './EventPractice';
+import InterationSample from './InterationSample';
 
 function App() {
-	return <EventPractice></EventPractice>;
+	return <InterationSample></InterationSample>;
 }
 export default App;
